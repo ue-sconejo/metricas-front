@@ -112,12 +112,12 @@ const getStatusColor = (status: string) => {
   }
 };
 
-const getPerformanceColor = (performance: number) => {
-  if (performance >= 90) return "bg-green-500";
-  if (performance >= 80) return "bg-blue-500";
-  if (performance >= 70) return "bg-yellow-500";
-  return "bg-red-500";
-};
+// const getPerformanceColor = (performance: number) => {
+//   if (performance >= 90) return "bg-green-500";
+//   if (performance >= 80) return "bg-blue-500";
+//   if (performance >= 70) return "bg-yellow-500";
+//   return "bg-red-500";
+// };
 
 export function TeamMembers() {
   return (

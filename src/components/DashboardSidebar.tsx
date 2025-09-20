@@ -1,4 +1,4 @@
-import { BarChart3, Users, FileText, Settings, Home, Target, Trophy, Activity } from "lucide-react";
+import { BarChart3, Users, FileText, Home } from "lucide-react";
 import { cn } from "./ui/utils";
 import { Button } from "./ui/button";
 

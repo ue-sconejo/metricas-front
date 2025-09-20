@@ -122,7 +122,7 @@ function ChartTooltipContent({
   active,
   payload = [],
   className,
-  indicator = "dot",
+  // indicator = "dot",
   hideLabel = false,
   hideIndicator = false,
   label,
